@@ -9,3 +9,5 @@ Note: My personal client information was hidden for the API. You will need to in
 
 Python's webscraping capabilities, especially within reddit, make this a more logical choice for this task. For additional analysis, such as regression modeling, I intend to switch over to R, which has the simplicity of many one-liner statistical analysis commands. 
 
+Note: This project is ongoing. The next steps are to store the comment data for August to December of 2021. Then, using this comment data, create word clouds to visualize positive/negative sentiments and/or include profitability of such tickers over the subsequent month. Once data is collected, R will be used for sentiment analysis, using tidytext and other text mining packages. 
+
